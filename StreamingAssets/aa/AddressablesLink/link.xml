@@ -1,6 +1,5 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="ActionText" preserve="all" />
     <type fullname="BlockAttack" preserve="all" />
     <type fullname="CinematicSound" preserve="all" />
     <type fullname="ContinuousAudio" preserve="all" />
@@ -93,42 +92,22 @@
     <type fullname="Day_3_Shun_End" preserve="all" />
     <type fullname="Day_3_Shun_Park" preserve="all" />
     <type fullname="Day_3_Store" preserve="all" />
-    <type fullname="Day_4_0" preserve="all" />
-    <type fullname="Day_4_End" preserve="all" />
-    <type fullname="Day_4_Postboss" preserve="all" />
-    <type fullname="Day_4_Run" preserve="all" />
-    <type fullname="DeathScreen" preserve="all" />
     <type fullname="DialogueAudio" preserve="all" />
     <type fullname="EnemyAttack" preserve="all" />
     <type fullname="EnemySpawner" preserve="all" />
-    <type fullname="HitMiss" preserve="all" />
-    <type fullname="KaraokeGame" preserve="all" />
-    <type fullname="KaraokeLane" preserve="all" />
-    <type fullname="KaraokeLights" preserve="all" />
-    <type fullname="KaraokeNote" preserve="all" />
-    <type fullname="karaokeSongManager" preserve="all" />
     <type fullname="KeyboardListener_" preserve="all" />
-    <type fullname="Lane" preserve="all" />
     <type fullname="Laser" preserve="all" />
     <type fullname="lr_LineController" preserve="all" />
     <type fullname="MainCamera" preserve="all" />
-    <type fullname="Note" preserve="all" />
     <type fullname="open_menu" preserve="all" />
     <type fullname="Option" preserve="all" />
     <type fullname="OrbLines" preserve="all" />
     <type fullname="Plane" preserve="all" />
     <type fullname="Player" preserve="all" />
-    <type fullname="PregameCutscene" preserve="all" />
     <type fullname="QI" preserve="all" />
     <type fullname="QIBeam" preserve="all" />
     <type fullname="RainbowObject" preserve="all" />
-    <type fullname="Restart_Screen" preserve="all" />
-    <type fullname="RhythmGame" preserve="all" />
-    <type fullname="Scope" preserve="all" />
     <type fullname="ShoppingItem" preserve="all" />
-    <type fullname="ShunNote" preserve="all" />
-    <type fullname="songManager" preserve="all" />
-    <type fullname="SpaceBackground" preserve="all" />
     <type fullname="SpecialOrb" preserve="all" />
     <type fullname="Vertex" preserve="all" />
   </assembly>
@@ -156,7 +135,6 @@
     <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
   </assembly>
   <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="TMPro.TextMeshPro" preserve="all" />
     <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
     <type fullname="TMPro.TMP_FontAsset" preserve="all" />
     <type fullname="TMPro.TMP_InputField" preserve="all" />
