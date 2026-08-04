@@ -2,8 +2,6 @@
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="ActionText" preserve="all" />
     <type fullname="BlockAttack" preserve="all" />
-    <type fullname="Bossfight" preserve="all" />
-    <type fullname="Bossfight_Nayeli" preserve="all" />
     <type fullname="CinematicSound" preserve="all" />
     <type fullname="ContinuousAudio" preserve="all" />
     <type fullname="CreditsOption" preserve="all" />
@@ -102,7 +100,6 @@
     <type fullname="DeathScreen" preserve="all" />
     <type fullname="DialogueAudio" preserve="all" />
     <type fullname="EnemyAttack" preserve="all" />
-    <type fullname="EnemyDisplay" preserve="all" />
     <type fullname="EnemySpawner" preserve="all" />
     <type fullname="HitMiss" preserve="all" />
     <type fullname="KaraokeGame" preserve="all" />
@@ -110,13 +107,11 @@
     <type fullname="KaraokeLights" preserve="all" />
     <type fullname="KaraokeNote" preserve="all" />
     <type fullname="karaokeSongManager" preserve="all" />
-    <type fullname="Kaye" preserve="all" />
     <type fullname="KeyboardListener_" preserve="all" />
     <type fullname="Lane" preserve="all" />
     <type fullname="Laser" preserve="all" />
     <type fullname="lr_LineController" preserve="all" />
     <type fullname="MainCamera" preserve="all" />
-    <type fullname="NecromancerMiniboss" preserve="all" />
     <type fullname="Note" preserve="all" />
     <type fullname="open_menu" preserve="all" />
     <type fullname="Option" preserve="all" />
@@ -126,10 +121,7 @@
     <type fullname="PregameCutscene" preserve="all" />
     <type fullname="QI" preserve="all" />
     <type fullname="QIBeam" preserve="all" />
-    <type fullname="QuizAnswer" preserve="all" />
-    <type fullname="QuizGame" preserve="all" />
     <type fullname="RainbowObject" preserve="all" />
-    <type fullname="RainbowText" preserve="all" />
     <type fullname="Restart_Screen" preserve="all" />
     <type fullname="RhythmGame" preserve="all" />
     <type fullname="Scope" preserve="all" />
@@ -230,7 +222,6 @@
     <type fullname="UnityEngine.BoxCollider2D" preserve="all" />
     <type fullname="UnityEngine.CapsuleCollider2D" preserve="all" />
     <type fullname="UnityEngine.CircleCollider2D" preserve="all" />
-    <type fullname="UnityEngine.EdgeCollider2D" preserve="all" />
     <type fullname="UnityEngine.PolygonCollider2D" preserve="all" />
     <type fullname="UnityEngine.Rigidbody2D" preserve="all" />
   </assembly>
@@ -260,9 +251,9 @@
     <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Canvas" preserve="all" />
