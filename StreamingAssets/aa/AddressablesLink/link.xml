@@ -1,24 +1,21 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="ActionText" preserve="all" />
     <type fullname="BlockAttack" preserve="all" />
     <type fullname="CinematicSound" preserve="all" />
     <type fullname="ContinuousAudio" preserve="all" />
     <type fullname="CreditsOption" preserve="all" />
     <type fullname="CubeWard" preserve="all" />
     <type fullname="DataStorage" preserve="all" />
-    <type fullname="Day_0_0" preserve="all" />
-    <type fullname="Day_0_1" preserve="all" />
     <type fullname="Day_0_Debate" preserve="all" />
     <type fullname="Day_0_Debate_1" preserve="all" />
     <type fullname="Day_0_Dinner" preserve="all" />
     <type fullname="Day_0_Dorm" preserve="all" />
-    <type fullname="Day_0_End" preserve="all" />
     <type fullname="Day_0_Library" preserve="all" />
     <type fullname="Day_0_Nayeli" preserve="all" />
     <type fullname="Day_0_Shae" preserve="all" />
     <type fullname="Day_1_0" preserve="all" />
     <type fullname="Day_1_Dinner" preserve="all" />
-    <type fullname="Day_1_End" preserve="all" />
     <type fullname="Day_1_Luke" preserve="all" />
     <type fullname="Day_1_Luke_Dorm" preserve="all" />
     <type fullname="Day_1_Shae" preserve="all" />
@@ -29,21 +26,17 @@
     <type fullname="Day_2_Debate_End" preserve="all" />
     <type fullname="Day_2_Dinner" preserve="all" />
     <type fullname="Day_2_Dorm" preserve="all" />
-    <type fullname="Day_2_End" preserve="all" />
     <type fullname="Day_2_Furry" preserve="all" />
-    <type fullname="Day_2_History" preserve="all" />
     <type fullname="Day_2_Luke" preserve="all" />
     <type fullname="Day_2_Luke_Dorm" preserve="all" />
     <type fullname="Day_2_Luke_Romance" preserve="all" />
     <type fullname="Day_2_Luke_Romance_End" preserve="all" />
-    <type fullname="Day_2_Physics" preserve="all" />
     <type fullname="Day_2_Physics_Generic" preserve="all" />
     <type fullname="Day_2_Physics_Luke" preserve="all" />
     <type fullname="Day_2_Physics_Luke_Romance" preserve="all" />
     <type fullname="Day_2_Physics_Shae" preserve="all" />
     <type fullname="Day_2_Physics_Shae_Abandon" preserve="all" />
     <type fullname="Day_2_Physics_Shun" preserve="all" />
-    <type fullname="Day_2_Room" preserve="all" />
     <type fullname="Day_2_Shae" preserve="all" />
     <type fullname="Day_2_Shae_Abandon" preserve="all" />
     <type fullname="Day_2_Shae_Dorm" preserve="all" />
@@ -73,17 +66,13 @@
     <type fullname="Day_2_Shun_Room" preserve="all" />
     <type fullname="Day_2_Street" preserve="all" />
     <type fullname="Day_2_Study" preserve="all" />
-    <type fullname="Day_3_0" preserve="all" />
     <type fullname="Day_3_Dinner" preserve="all" />
-    <type fullname="Day_3_Dorm" preserve="all" />
     <type fullname="Day_3_Luke" preserve="all" />
     <type fullname="Day_3_Luke_End" preserve="all" />
     <type fullname="Day_3_Prison" preserve="all" />
-    <type fullname="Day_3_Psych" preserve="all" />
     <type fullname="Day_3_Raid" preserve="all" />
     <type fullname="Day_3_Raid_1" preserve="all" />
     <type fullname="Day_3_Raid_start" preserve="all" />
-    <type fullname="Day_3_Room" preserve="all" />
     <type fullname="Day_3_Shae" preserve="all" />
     <type fullname="Day_3_Shae_Dinner" preserve="all" />
     <type fullname="Day_3_Shae_End" preserve="all" />
@@ -91,23 +80,35 @@
     <type fullname="Day_3_Shun_City" preserve="all" />
     <type fullname="Day_3_Shun_End" preserve="all" />
     <type fullname="Day_3_Shun_Park" preserve="all" />
-    <type fullname="Day_3_Store" preserve="all" />
     <type fullname="DialogueAudio" preserve="all" />
     <type fullname="EnemyAttack" preserve="all" />
     <type fullname="EnemySpawner" preserve="all" />
+    <type fullname="HitMiss" preserve="all" />
+    <type fullname="KaraokeGame" preserve="all" />
+    <type fullname="KaraokeLane" preserve="all" />
+    <type fullname="KaraokeLights" preserve="all" />
+    <type fullname="KaraokeNote" preserve="all" />
+    <type fullname="karaokeSongManager" preserve="all" />
     <type fullname="KeyboardListener_" preserve="all" />
+    <type fullname="Lane" preserve="all" />
     <type fullname="Laser" preserve="all" />
     <type fullname="lr_LineController" preserve="all" />
     <type fullname="MainCamera" preserve="all" />
+    <type fullname="Note" preserve="all" />
     <type fullname="open_menu" preserve="all" />
     <type fullname="Option" preserve="all" />
     <type fullname="OrbLines" preserve="all" />
     <type fullname="Plane" preserve="all" />
     <type fullname="Player" preserve="all" />
+    <type fullname="PregameCutscene" preserve="all" />
     <type fullname="QI" preserve="all" />
     <type fullname="QIBeam" preserve="all" />
     <type fullname="RainbowObject" preserve="all" />
-    <type fullname="ShoppingItem" preserve="all" />
+    <type fullname="RhythmGame" preserve="all" />
+    <type fullname="Scope" preserve="all" />
+    <type fullname="ShunNote" preserve="all" />
+    <type fullname="songManager" preserve="all" />
+    <type fullname="SpaceBackground" preserve="all" />
     <type fullname="SpecialOrb" preserve="all" />
     <type fullname="Vertex" preserve="all" />
   </assembly>
@@ -135,6 +136,7 @@
     <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
   </assembly>
   <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshPro" preserve="all" />
     <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
     <type fullname="TMPro.TMP_FontAsset" preserve="all" />
     <type fullname="TMPro.TMP_InputField" preserve="all" />
