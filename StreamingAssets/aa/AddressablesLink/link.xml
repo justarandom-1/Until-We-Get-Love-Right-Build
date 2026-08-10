@@ -105,6 +105,7 @@
     <type fullname="QI" preserve="all" />
     <type fullname="QIBeam" preserve="all" />
     <type fullname="RainbowObject" preserve="all" />
+    <type fullname="Restart_Screen" preserve="all" />
     <type fullname="RhythmGame" preserve="all" />
     <type fullname="Scope" preserve="all" />
     <type fullname="ShunNote" preserve="all" />
