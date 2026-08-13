@@ -1,4 +1,4 @@
-const cacheName = "Team Swagger-Until We Get Love Right-1.0";
+const cacheName = "Team Swag-Until We Get Love Right-1.0";
 const contentToCache = [
     "Build/Build.loader.js",
     "Build/Build.framework.js",
